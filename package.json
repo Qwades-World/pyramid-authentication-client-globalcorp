@@ -16,7 +16,9 @@
     "author": "OpenAPI-Generator Contributors",
     "license": "Unlicense",
     "dependencies": {
+        "axios": "^1.7.2",
         "bluebird": "^3.5.0",
+        "dotenv": "^16.4.5",
         "request": "^2.81.0",
         "rewire": "^3.0.2",
         "xhr2": "^0.2.1"
