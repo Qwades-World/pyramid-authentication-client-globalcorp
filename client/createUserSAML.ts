@@ -16,7 +16,7 @@ const createUserDbArr = [
     lastName: "Bobbert",
     principalName: "bob.bobbert",
     tenantId: process.env.TENANTID!,
-    usereName: "bob.bobbert"
+    userName: "bob.bobbert"
   },
   {
     adminType: 0,
@@ -27,7 +27,7 @@ const createUserDbArr = [
     lastName: "Smithy",
     principalName: "james.smithy",
     tenantId: process.env.TENANTID!,
-    usereName: "bob.james.smithy"
+    userName: "bob.james.smithy"
   },
 ]
 
