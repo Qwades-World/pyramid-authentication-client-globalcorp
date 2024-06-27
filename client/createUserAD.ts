@@ -10,13 +10,13 @@ const createUserDbArr = [
   {
     adDomainName: "gcorp.com",
     clientLicenseType: 100,
-    username: "bob.bobbert",
+    userName: "bob.bobbert",
     inheritanceType: "CreateUserAdObject"
   },
   {
     adDomainName: "gcorp.com",
     clientLicenseType: 100,
-    username: "john.smith",
+    userName: "john.smith",
     inheritanceType: "CreateUserAdObject"
   },
 ]
