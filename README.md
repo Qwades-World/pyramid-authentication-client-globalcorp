@@ -41,6 +41,16 @@ migrated from a governance perspective.
 limited support.
 - The Windows connector service can only be installed on a Windows OS
 
+<h2>Todo List</h2>
+
+* Download TypeScript SDK :heavy_check_mark:
+* Study API documentation :heavy_check_mark:
+* Build out lab with Pyramid Analytics, Windows AD servers for all three domains :heavy_check_mark:
+* Develop user object population apps for all three auth types (DB, AD, and SAML) :heavy_check_mark:
+* Test apps :heavy_check_mark:
+* Develop landing page that will map SAML assertions and acquire user token from Pyramid Analytics
+* Test SAML "shim" to make sure that it is working 
+
 <h2>Proposed Solution Architecture</h2>
 <img src="images/GlobalCorp - Pyramid Analytics Arch-Architecture Overview.jpg">
 
